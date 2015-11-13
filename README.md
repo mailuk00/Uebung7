@@ -30,7 +30,7 @@ Beispiel Name - Alias
 ##L
 
 ##M
-Maier Lukas - mailuk00
+Maier Lukas _ mailuk00
 ##N
 
 ##O
